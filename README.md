@@ -54,3 +54,12 @@ Note: Due to data privacy and licensing, raw data may not be publicly available.
 - Transportation modeling
 - Infrastructure planning
 - Traffic management and policy design
+
+### License
+This project is provided as-is for educational and research purposes.
+
+### Author
+Yair Ytshaki
+
+### Contact
+For questions or collaboration inquiries, please open an issue on this repository.
